@@ -2,4 +2,6 @@
 title: Welcome to my blog
 ---
 
-this is a sample made by the github pages
+
+This is a sample for the pages that could be created by github pages
+
